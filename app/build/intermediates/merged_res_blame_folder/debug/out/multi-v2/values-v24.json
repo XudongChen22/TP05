@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.recommendation.app-mergeDebugResources-12:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sayontika\\.gradle\\caches\\transforms-3\\85a44c447d463c7db10bb396c60f2256\\transformed\\appcompat-1.1.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

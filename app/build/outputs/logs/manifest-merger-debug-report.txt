@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\a5d151450bfb652dfc7a3d42fcf66daa\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\85a44c447d463c7db10bb396c60f2256\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sayontika\.gradle\caches\transforms-3\1b6ecac8c638955e07f8362fabb4cd39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\2a5384f8d2b518c3bd9ea1b7ead55641\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31baf837a1bf85110a407d19f12b9307\transformed\tensorflow-lite-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\cea4bf9d0c7d7849506b7d9ed3e48f06\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\1bbcab5dce97d9c6742919bff82ec982\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\563502f8e5319d85ddd948412f7ae0a3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fe4ece4edbe187a9553e16ff168c3aba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\1b924ad8685abdb6e3bc6c4f67c651a3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\8b84e938752d67dc82db14b72fbde895\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\0a2b26582b1cf3deb5c03f9c34542d2d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\221d0b4e998ac7a324df8536a6f38b10\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\2573d87479e432876582fcdc5dde428b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\338330ed3b079acdd346a4d4c6e0c2ac\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\498e622ca399d34e3f5e2b32845644d9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\d7bb72035c10589b52bd90624bfdb33e\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f864683c31e8bb8f6421c097ea735559\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\3e23a42c2264a6fa29905ed333d4f357\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\e38001db8c382586c4aaffd3f4ae9238\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\9177cf176780be0620fcf9abc0cf93d1\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\0c7d2507b8d4ff6e2559fab4364bd541\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\8b6af34850a7d96b1c69672f729959e0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f49438f568d4e19216ebd5af8851a6e8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\febfc7d71ae591c5f2a14e4ac5520770\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\19fd995a96bb7a4fd21c7e0654a7f214\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\9b3bd19f5637b487674e7ff8f7880171\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\80c3f3f3d89651076a1268eb12b897d8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31b35b5b2dbe0968c11a2c9b690e7080\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\3abcf5fa1fe3fa5680286bda9aae3176\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\da657ad7fefd728f00ec7525a6ff42d1\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\7406813a474bd06e48bf75cdafe5f0a2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\abe9f7c55e79145a207e5d3a543a2128\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\5dd0b8149721cf9052206e59809d6506\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:5:3-22:17
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\a5d151450bfb652dfc7a3d42fcf66daa\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\a5d151450bfb652dfc7a3d42fcf66daa\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sayontika\.gradle\caches\transforms-3\1b6ecac8c638955e07f8362fabb4cd39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sayontika\.gradle\caches\transforms-3\1b6ecac8c638955e07f8362fabb4cd39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31baf837a1bf85110a407d19f12b9307\transformed\tensorflow-lite-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31baf837a1bf85110a407d19f12b9307\transformed\tensorflow-lite-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f49438f568d4e19216ebd5af8851a6e8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f49438f568d4e19216ebd5af8851a6e8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:8:7-46
+	android:roundIcon
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:11:7-53
+activity#org.tensorflow.lite.examples.recommendation.MainActivity
+ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:13:5-21:16
+	android:windowSoftInputMode
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:16:9-51
+	android:exported
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:17:7-20:23
+action#android.intent.action.MAIN
+ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:19:19-66
+uses-sdk
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\a5d151450bfb652dfc7a3d42fcf66daa\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\a5d151450bfb652dfc7a3d42fcf66daa\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\85a44c447d463c7db10bb396c60f2256\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\85a44c447d463c7db10bb396c60f2256\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sayontika\.gradle\caches\transforms-3\1b6ecac8c638955e07f8362fabb4cd39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sayontika\.gradle\caches\transforms-3\1b6ecac8c638955e07f8362fabb4cd39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\2a5384f8d2b518c3bd9ea1b7ead55641\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\2a5384f8d2b518c3bd9ea1b7ead55641\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31baf837a1bf85110a407d19f12b9307\transformed\tensorflow-lite-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31baf837a1bf85110a407d19f12b9307\transformed\tensorflow-lite-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\cea4bf9d0c7d7849506b7d9ed3e48f06\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\cea4bf9d0c7d7849506b7d9ed3e48f06\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\1bbcab5dce97d9c6742919bff82ec982\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\1bbcab5dce97d9c6742919bff82ec982\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\563502f8e5319d85ddd948412f7ae0a3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\563502f8e5319d85ddd948412f7ae0a3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fe4ece4edbe187a9553e16ff168c3aba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fe4ece4edbe187a9553e16ff168c3aba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\1b924ad8685abdb6e3bc6c4f67c651a3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\1b924ad8685abdb6e3bc6c4f67c651a3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\8b84e938752d67dc82db14b72fbde895\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\8b84e938752d67dc82db14b72fbde895\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\0a2b26582b1cf3deb5c03f9c34542d2d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\0a2b26582b1cf3deb5c03f9c34542d2d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\221d0b4e998ac7a324df8536a6f38b10\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\221d0b4e998ac7a324df8536a6f38b10\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\2573d87479e432876582fcdc5dde428b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\2573d87479e432876582fcdc5dde428b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\338330ed3b079acdd346a4d4c6e0c2ac\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\338330ed3b079acdd346a4d4c6e0c2ac\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\498e622ca399d34e3f5e2b32845644d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\498e622ca399d34e3f5e2b32845644d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\d7bb72035c10589b52bd90624bfdb33e\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\d7bb72035c10589b52bd90624bfdb33e\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f864683c31e8bb8f6421c097ea735559\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f864683c31e8bb8f6421c097ea735559\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\3e23a42c2264a6fa29905ed333d4f357\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\3e23a42c2264a6fa29905ed333d4f357\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\e38001db8c382586c4aaffd3f4ae9238\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\e38001db8c382586c4aaffd3f4ae9238\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\9177cf176780be0620fcf9abc0cf93d1\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\9177cf176780be0620fcf9abc0cf93d1\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\0c7d2507b8d4ff6e2559fab4364bd541\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\0c7d2507b8d4ff6e2559fab4364bd541\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\8b6af34850a7d96b1c69672f729959e0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\8b6af34850a7d96b1c69672f729959e0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f49438f568d4e19216ebd5af8851a6e8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\f49438f568d4e19216ebd5af8851a6e8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\febfc7d71ae591c5f2a14e4ac5520770\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\febfc7d71ae591c5f2a14e4ac5520770\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\19fd995a96bb7a4fd21c7e0654a7f214\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\19fd995a96bb7a4fd21c7e0654a7f214\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\9b3bd19f5637b487674e7ff8f7880171\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\9b3bd19f5637b487674e7ff8f7880171\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\80c3f3f3d89651076a1268eb12b897d8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\80c3f3f3d89651076a1268eb12b897d8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31b35b5b2dbe0968c11a2c9b690e7080\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\31b35b5b2dbe0968c11a2c9b690e7080\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\3abcf5fa1fe3fa5680286bda9aae3176\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\3abcf5fa1fe3fa5680286bda9aae3176\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\da657ad7fefd728f00ec7525a6ff42d1\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\da657ad7fefd728f00ec7525a6ff42d1\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\7406813a474bd06e48bf75cdafe5f0a2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\7406813a474bd06e48bf75cdafe5f0a2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\abe9f7c55e79145a207e5d3a543a2128\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\abe9f7c55e79145a207e5d3a543a2128\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\5dd0b8149721cf9052206e59809d6506\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sayontika\.gradle\caches\transforms-3\5dd0b8149721cf9052206e59809d6506\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		MERGED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml

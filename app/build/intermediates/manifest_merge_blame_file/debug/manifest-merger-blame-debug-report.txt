@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.bertapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:5:3-22:17
+12        android:allowBackup="true"
+12-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:6:7-33
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Sayontika\.gradle\caches\transforms-3\fd240823824aae38b7345f8ec72ff8ce\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:7:7-41
+17        android:label="@string/tfe_re_app_name"
+17-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:8:7-46
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:9:7-52
+19        android:supportsRtl="true"
+19-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:10:7-33
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme.Recommendation" >
+21-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:11:7-53
+22        <activity
+22-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:13:5-21:16
+23            android:name="org.tensorflow.lite.examples.recommendation.MainActivity"
+23-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:14:9-37
+24            android:exported="true"
+24-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:15:9-32
+25            android:windowSoftInputMode="adjustResize" >
+25-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:16:9-51
+26            <intent-filter>
+26-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:17:7-20:23
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:18:9-61
+27-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:18:17-58
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:19:9-69
+29-->D:\Software\Android Studio\examples\lite\examples\recommendation\android\app\src\main\AndroidManifest.xml:19:19-66
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>
