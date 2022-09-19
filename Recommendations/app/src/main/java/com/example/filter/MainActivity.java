@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
         selectedFilters.add("all");
     }
 
+
     private void initColors()
     {
         white = ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary);
@@ -62,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         darkGray = ContextCompat.getColor(getApplicationContext(), R.color.darkerGray);
     }
 
+    // Set up sort button functions
     private void unSelectAllSortButtons()
     {
         lookUnSelected(idAscButton);
@@ -79,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // Changes colour to show whether a button is selected
     private void lookSelected(Button parsedButton)
     {
         parsedButton.setTextColor(white);
@@ -91,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
         parsedButton.setBackgroundColor(darkGray);
     }
 
+    // Initialize all widgets
     private void initWidgets()
     {
         sortButton = (Button) findViewById(R.id.sortButton);
@@ -110,6 +114,7 @@ public class MainActivity extends AppCompatActivity {
         nameDescButton  = (Button) findViewById(R.id.nameDesc);
     }
 
+    // initialize search widget, if no filter then display all activities
     private void initSearchWidgets()
     {
         searchView = (SearchView) findViewById(R.id.recListSearchView);
@@ -152,6 +157,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    // Initialize data with values
     private void setupData()
     {
         Recommendation act1 = new Recommendation("0", "Movies", 4, "Low", R.drawable.movie,"Movies are a great way to bond with your parent, you can find personalised recommendations from our Movie function!");
@@ -192,6 +199,7 @@ public class MainActivity extends AppCompatActivity {
         setAdapter(recList);
     }
 
+    // Setup onclick listener
     private void setupOnclickListener()
     {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
@@ -208,6 +216,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // Function called to filter activities
     private void filterList(String status)
     {
         if(status != null && !selectedFilters.contains(status))
@@ -239,6 +248,7 @@ public class MainActivity extends AppCompatActivity {
         setAdapter(filteredRecommendations);
     }
 
+    // Setup filter and sort button functionalities
     public void allFilterTapped(View view)
     {
         selectedFilters.clear();
@@ -352,7 +362,9 @@ public class MainActivity extends AppCompatActivity {
         Collections.reverse(recList);
         checkForFilter();
     }
-
+     /* Checks if any filters are selected, if not shows all activities, otherwise show all
+     activities matching the filter
+      */
     private void checkForFilter()
     {
         if(selectedFilters.contains("all"))
